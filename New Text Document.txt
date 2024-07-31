@@ -1,0 +1,5 @@
+npx tailwindcss -i ./src/input.css -o ./pablicnpx/appstyle.css --watch
+
+$ npm install caniuse-lite
+
+$ npm uninstall caniuse-lite
